@@ -4,6 +4,7 @@
 }
 .header{
     background-image: url('/Sources/images/donation13.jpg');
+    background-color: #0B0D17;
     height: 620px;
     background-size: cover;
     background-repeat: no-repeat;
