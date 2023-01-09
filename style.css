@@ -3,7 +3,7 @@
     font-family: 'Inter';
 }
 .header{
-    background-image: url('/Sources/images/donation13.svg');
+    background-image: url('./Sources/images/donation13.svg');
     background-color: #0B0D17;
     height: 620px;
     background-size: cover;
